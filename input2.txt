@@ -1,0 +1,5 @@
+3
+Gaussian-jordan
+2x+1y+4z+1
+1x+2y+3z+1.5
+4x-1y+2z+2
